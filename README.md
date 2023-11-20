@@ -1,3 +1,3 @@
 # MMN
 
-The application for release of the implementation code is still under approval.
+The application for releasing the implementation code is still under approval.
